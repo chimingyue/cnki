@@ -6,6 +6,8 @@ import Login from './components/Login'
 import Mlaw from './components/Mlaw'
 import CpzxIndex from './components/CpzxIndex'
 import CpzxHangye from './components/CpzxHangye'
+import CpzxSifa from './components/CpzxSifa'
+import CpzxMobile from './components/CpzxMobile'
 
 Vue.use(Router)
 
@@ -16,6 +18,8 @@ export default new Router({
     {path:'/Login',component:Login},
     {path:'/Mlaw',component:Mlaw},
     {path:'/CpzxIndex',component:CpzxIndex},
-    {path:'/CpzxHangye',component:CpzxHangye}
+    {path:'/CpzxHangye',component:CpzxHangye},
+    {path:'/CpzxSifa',component:CpzxSifa},
+    {path:'/CpzxMobile',component:CpzxMobile}
   ]
 })

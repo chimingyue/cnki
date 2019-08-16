@@ -4,11 +4,11 @@
         <!-- 导航 -->
         <div class="hdnavbg">
             <ul>
-                <li><router-link to="#" class="active">数据中心</router-link></li>
+                <li><router-link to="/CpzxIndex" class="active">数据中心</router-link></li>
                 <li><router-link to="/CpzxHangye">行业知识服务平台</router-link></li>
-                <li><router-link to="">智慧司法解决方案</router-link></li>
-                <li><router-link to="">移动端产品</router-link></li>
-                <li><router-link to="">典型案例</router-link></li>
+                <li><router-link to="/CpzxSifa">智慧司法解决方案</router-link></li>
+                <li><router-link to="/CpzxMobile">移动端产品</router-link></li>
+                <li><router-link to="/CpzxIndex">典型案例</router-link></li>
             </ul>
         </div>
         <div class="cpzxcontent">

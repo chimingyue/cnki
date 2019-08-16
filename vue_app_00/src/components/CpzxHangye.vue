@@ -5,14 +5,13 @@
         <div class="hdnavbg">
             <ul>
                 <li><router-link to="/CpzxIndex" >数据中心</router-link></li>
-                <li><router-link to="#" class="active">行业知识服务平台</router-link></li>
-                <li><router-link to="">智慧司法解决方案</router-link></li>
-                <li><router-link to="">移动端产品</router-link></li>
-                <li><router-link to="">典型案例</router-link></li>
+                <li><router-link to="/CpzxHangye" class="active">行业知识服务平台</router-link></li>
+                <li><router-link to="/CpzxSifa">智慧司法解决方案</router-link></li>
+                <li><router-link to="/CpzxMobile">移动端产品</router-link></li>
+                <li><router-link to="/CpzxIndex">典型案例</router-link></li>
             </ul>
         </div>
         <div class="cpzxcontent">
-        <!-- 法律类 -->
             <h4 class="dangjianh">行业知识服务平台</h4>
             <div class="lawbox dangjian  hangye">
                 <div>
@@ -112,6 +111,10 @@
                     </p>
                 </div>
             </div>
+        </div>
+        <div class="cpzxfooter">
+            <p>010-62701673</p>
+            <p>中国知网<img src="../assets/cpzx/pic.gif" alt=""></p>
         </div>
     </div>
 </template>

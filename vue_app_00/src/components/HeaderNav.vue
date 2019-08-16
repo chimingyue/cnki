@@ -55,8 +55,8 @@
                   <template slot="title">产品中心</template>
                   <el-menu-item index="CpzxIndex">数据中心</el-menu-item>
                   <el-menu-item index="CpzxHangye">行业知识服务平台</el-menu-item>
-                  <el-menu-item index="CpzxIndex">智慧司法解决方案</el-menu-item>
-                  <el-menu-item index="CpzxIndex">移动端产品</el-menu-item>
+                  <el-menu-item index="CpzxSifa">智慧司法解决方案</el-menu-item>
+                  <el-menu-item index="CpzxMobile">移动端产品</el-menu-item>
                   <el-menu-item index="CpzxIndex">典型案例</el-menu-item>
               </el-submenu>
               <el-menu-item index="5">企业快讯</el-menu-item>
