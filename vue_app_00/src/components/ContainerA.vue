@@ -1,5 +1,6 @@
 <template>
     <div>
+    <!--header-->
         <div class="search">
             <div class="search_left">
                 <div class="text">CNKI 法律检索</div>
